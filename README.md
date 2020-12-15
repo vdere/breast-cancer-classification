@@ -22,5 +22,9 @@ pip install numpy opencv-python pillow tensorflow keras imutils scikit-learn
 
 copy the datasets in datasets\original directory
 ```
+# Output
+
+![Analyzed Data](https://github.com/vdere/breast-cancer-classification/blob/main/plot-project-in-python.png)
+
 
 
